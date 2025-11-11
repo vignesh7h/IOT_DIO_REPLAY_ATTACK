@@ -1,0 +1,7 @@
+> Task :compileJava UP-TO-DATE
+> Task :processResources UP-TO-DATE
+> Task :classes UP-TO-DATE
+
+> Task :run
+[32mINFO  [main] [Cooja.java:1145] - Loading ../../examples/dao-shield-project/dao-baseline.csc random seed: null[0;39m
+WARNING: row index is bigger than sorter's row count. Most likely this is a wrong sorter usage.
